@@ -1,0 +1,125 @@
+C:\D\c# projects\Battleships\Service\bin\Debug\Service.dll.config
+C:\D\c# projects\Battleships\Service\bin\Debug\Service.dll
+C:\D\c# projects\Battleships\Service\bin\Debug\Service.pdb
+C:\D\c# projects\Battleships\Service\obj\Debug\Service.dll
+C:\D\c# projects\Battleships\Service\obj\Debug\Service.pdb
+C:\D\c# projects\Battleships\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\KK\Battleships\Service\bin\Debug\Service.dll.config
+C:\KK\Battleships\Service\bin\Debug\Service.dll
+C:\KK\Battleships\Service\bin\Debug\Service.pdb
+C:\KK\Battleships\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\KK\Battleships\Service\obj\Debug\Service.dll
+C:\KK\Battleships\Service\obj\Debug\Service.pdb
+C:\KK\study\2nd year\MDW\Battleships\Service\bin\Debug\Service.dll.config
+C:\KK\study\2nd year\MDW\Battleships\Service\bin\Debug\Service.dll
+C:\KK\study\2nd year\MDW\Battleships\Service\bin\Debug\Service.pdb
+C:\KK\study\2nd year\MDW\Battleships\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\KK\study\2nd year\MDW\Battleships\Service\obj\Debug\Service.dll
+C:\KK\study\2nd year\MDW\Battleships\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\Battleships\Service\obj\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\bin\Debug\Service.dll.config
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\bin\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\bin\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\obj\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Service\obj\Debug\Service.pdb
+D:\bs\Service\bin\Debug\Service.dll.config
+D:\bs\Service\bin\Debug\Service.dll
+D:\bs\Service\bin\Debug\Service.pdb
+D:\bs\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\bs\Service\obj\Debug\Service.dll
+D:\bs\Service\obj\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\bin\Debug\Service.dll.config
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\bin\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\bin\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\obj\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\obj\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\BattleShip\Service\bin\Debug\Service.dll.config
+D:\BattleShip\Service\bin\Debug\Service.dll
+D:\BattleShip\Service\bin\Debug\Service.pdb
+D:\BattleShip\Service\obj\Debug\ResolveAssemblyReference.cache
+D:\BattleShip\Service\obj\Debug\Service.dll
+D:\BattleShip\Service\obj\Debug\Service.pdb
+C:\Users\c0rp\Desktop\BattleShip\Service\bin\Debug\Service.dll.config
+C:\Users\c0rp\Desktop\BattleShip\Service\bin\Debug\Service.dll
+C:\Users\c0rp\Desktop\BattleShip\Service\bin\Debug\Service.pdb
+C:\Users\c0rp\Desktop\BattleShip\Service\obj\Debug\Service.dll
+C:\Users\c0rp\Desktop\BattleShip\Service\obj\Debug\Service.pdb
+C:\Users\c0rp\Desktop\BattleShip\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\obj\Debug\Service.dll
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\obj\Debug\Service.pdb
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\bin\Debug\Service.dll.config
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\bin\Debug\Service.dll
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Service\obj\Debug\Service.pdb
+D:\Downloads\MDWbattle\Service\bin\Debug\Service.dll.config
+D:\Downloads\MDWbattle\Service\bin\Debug\Service.dll
+D:\Downloads\MDWbattle\Service\bin\Debug\Service.pdb
+D:\Downloads\MDWbattle\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Downloads\MDWbattle\Service\obj\Debug\Service.dll
+D:\Downloads\MDWbattle\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Service\obj\Debug\Service.pdb
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.dll.config
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.dll
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.pdb
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\Service.dll
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\Service.pdb
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.dll.config
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.dll
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\bin\Debug\Service.pdb
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\Service.dll
+C:\KK\MDWBATTLESHIP\MDWbattle\Service\obj\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\bin\Debug\Service.dll.config
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\bin\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\bin\Debug\Service.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\obj\Debug\Service.dll
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Service\obj\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\final version\Service\bin\Debug\Service.dll.config
+C:\Users\Yohandi Widjaja\Desktop\final version\Service\bin\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\final version\Service\bin\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\final version\Service\obj\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\final version\Service\obj\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\bin\Debug\Service.dll.config
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\bin\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\bin\Debug\Service.pdb
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\obj\Debug\Service.dll
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Service\obj\Debug\Service.pdb

@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E141EBAC-2C78-4B57-B6FA-B49E57FFE21F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Client</RootNamespace>
+    <AssemblyName>Client</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Battleship.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Carrier.cs" />
+    <Compile Include="Cell.cs" />
+    <Compile Include="BattleshipForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BattleshipForm.Designer.cs">
+      <DependentUpon>BattleshipForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Destroyer.cs" />
+    <Compile Include="Service References\MyLobbyService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="TinyShip.cs" />
+    <Compile Include="GameBoard.cs" />
+    <Compile Include="GameStates.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MyBattleshipService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\MyChatService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Ship.cs" />
+    <Compile Include="ShipTypes.cs" />
+    <Compile Include="SmallShip.cs" />
+    <EmbeddedResource Include="BattleshipForm.resx">
+      <DependentUpon>BattleshipForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InitialPhase.sequencediagram.layout">
+      <DependentUpon>InitialPhase.sequencediagram</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="InitialPhase.sequencediagram" />
+    <None Include="Service References\MyBattleshipService\Arrays.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyBattleshipService\MyBattleshipContract.wsdl" />
+    <None Include="Service References\MyBattleshipService\MyBattleshipContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyBattleshipService\MyChatContract.wsdl" />
+    <None Include="Service References\MyBattleshipService\MyChatContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyBattleshipService\MyLobbyContract.wsdl" />
+    <None Include="Service References\MyBattleshipService\MyLobbyContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyBattleshipService\service.wsdl" />
+    <None Include="Service References\MyBattleshipService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyBattleshipService\System.Drawing.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\Arrays.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\MyBattleshipContract.wsdl" />
+    <None Include="Service References\MyChatService\MyBattleshipContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\MyChatContract.wsdl" />
+    <None Include="Service References\MyChatService\MyChatContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\MyLobbyContract.wsdl" />
+    <None Include="Service References\MyChatService\MyLobbyContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\service.wsdl" />
+    <None Include="Service References\MyChatService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyChatService\System.Drawing.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\Arrays.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\MyBattleshipContract.wsdl" />
+    <None Include="Service References\MyLobbyService\MyBattleshipContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\MyChatContract.wsdl" />
+    <None Include="Service References\MyLobbyService\MyChatContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\MyLobbyContract.wsdl" />
+    <None Include="Service References\MyLobbyService\MyLobbyContract.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\service.wsdl" />
+    <None Include="Service References\MyLobbyService\service.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\MyLobbyService\System.Drawing.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallship.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallshipPart1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallshipPart2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\MyBattleshipService\" />
+    <WCFMetadataStorage Include="Service References\MyChatService\" />
+    <WCFMetadataStorage Include="Service References\MyLobbyService\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyBattleshipService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyBattleshipService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyBattleshipService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Miss.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyChatService\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyChatService\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyChatService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallshipPart1R.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallshipPart2R.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallshipR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tinyship.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tinyshipR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\MyLobbyService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\MyLobbyService\configuration.svcinfo" />
+    <None Include="Service References\MyLobbyService\configuration91.svcinfo" />
+    <None Include="Resources\warships-battle-sea-art-artwork-desktop-hd-wallpaper.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\destroyerPart3R.png" />
+    <None Include="Resources\destroyerPart2R.png" />
+    <None Include="Resources\destroyerPart1R.png" />
+    <None Include="Resources\destroyerPart3.png" />
+    <None Include="Resources\destroyerPart2.png" />
+    <None Include="Resources\destroyerPart1.png" />
+    <None Include="Resources\battleship.png" />
+    <None Include="Resources\battleshipR.png" />
+    <None Include="Resources\battleshipPart1.png" />
+    <None Include="Resources\battleshipPart2.png" />
+    <None Include="Resources\battleshipPart3.png" />
+    <None Include="Resources\battleshipPart4.png" />
+    <None Include="Resources\battleshipPart1R.png" />
+    <None Include="Resources\battleshipPart2R.png" />
+    <None Include="Resources\battleshipPart3R.png" />
+    <None Include="Resources\battleshipPart4R.png" />
+    <None Include="Resources\carrierPart1.png" />
+    <None Include="Resources\carrierPart1R.png" />
+    <None Include="Resources\carrierPart2.png" />
+    <None Include="Resources\carrierPart2R.png" />
+    <None Include="Resources\carrierPart3.png" />
+    <None Include="Resources\carrierPart3R.png" />
+    <None Include="Resources\carrierPart4.png" />
+    <None Include="Resources\carrierPart4R.png" />
+    <None Include="Resources\carrierPart5.png" />
+    <None Include="Resources\carrierPart5R.png" />
+    <None Include="Resources\carrier.png" />
+    <None Include="Resources\carrierR.png" />
+    <Content Include="Resources\destroyer.png" />
+    <None Include="Resources\destroyerR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

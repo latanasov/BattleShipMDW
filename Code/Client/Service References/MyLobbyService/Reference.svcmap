@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="14acc556-9ac6-4c47-9012-b6b827423632" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyBattleshipContract.wsdl" MetadataType="Wsdl" ID="ca9df9b8-18aa-4bd3-9c2c-04fdcfe38353" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="b4f9af8d-8e9e-410a-a4f7-b4d2e2f213e2" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="MyChatContract.wsdl" MetadataType="Wsdl" ID="cb87cb8a-d23f-4f79-92ac-90fd88441b74" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="MyLobbyContract.wsdl" MetadataType="Wsdl" ID="8f901c7b-5649-42e9-ae4d-e229d48cb5ad" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="MyBattleshipContract.xsd" MetadataType="Schema" ID="90724b4c-751f-4de3-8eac-c8554cb998f8" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="43dcae92-0cc5-43b1-9828-a77ac53767bf" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="System.Drawing.xsd" MetadataType="Schema" ID="cf5d0b9d-8f42-4b7d-808d-48caee2ba2e2" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="MyChatContract.xsd" MetadataType="Schema" ID="7543aa06-9002-45c0-8b6c-f3b962983a22" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="MyLobbyContract.xsd" MetadataType="Schema" ID="ef9862cf-dd15-40c9-9695-bc1659f835ce" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="6ecf4756-aaa9-4281-ae78-39618ecaf4af" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/Service/CBattleship/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

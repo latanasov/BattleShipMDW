@@ -1,0 +1,198 @@
+C:\D\c# projects\Battleships\Client\bin\Debug\Client.exe
+C:\D\c# projects\Battleships\Client\bin\Debug\Client.pdb
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.exe
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\D\c# projects\Battleships\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\D\c# projects\Battleships\Client\bin\Debug\Client.exe.config
+C:\KK\Battleships\Client\bin\Debug\Client.exe.config
+C:\KK\Battleships\Client\obj\x86\Debug\Client.exe
+C:\KK\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\KK\Battleships\Client\bin\Debug\Client.exe
+C:\KK\Battleships\Client\bin\Debug\Client.pdb
+C:\KK\Battleships\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\KK\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\KK\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\KK\Battleships\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\KK\Battleships\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\KK\study\2nd year\MDW\Battleships\Client\bin\Debug\Client.exe.config
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\Client.exe
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\KK\study\2nd year\MDW\Battleships\Client\bin\Debug\Client.exe
+C:\KK\study\2nd year\MDW\Battleships\Client\bin\Debug\Client.pdb
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\KK\study\2nd year\MDW\Battleships\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships(with deleting and checking overlap added)\Battleships\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships(tinyship added)\Battleships\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\Battleships\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\bin\Debug\Client.exe.config
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\bin\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\bin\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Yohandi Widjaja\Desktop\Battleships\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\bs\Client\bin\Debug\Client.exe.config
+D:\bs\Client\obj\x86\Debug\Client.exe
+D:\bs\Client\obj\x86\Debug\Client.pdb
+D:\bs\Client\bin\Debug\Client.exe
+D:\bs\Client\bin\Debug\Client.pdb
+D:\bs\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bs\Client\obj\x86\Debug\Client.frmBattleship.resources
+D:\bs\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\bs\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bs\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\bin\Debug\Client.exe.config
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\bin\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\bin\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\obj\x86\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\BattleShip\Client\obj\x86\Debug\Client.pdb
+D:\BattleShip\Client\bin\Debug\Client.exe.config
+D:\BattleShip\Client\obj\x86\Debug\Client.exe
+D:\BattleShip\Client\obj\x86\Debug\Client.pdb
+D:\BattleShip\Client\bin\Debug\Client.exe
+D:\BattleShip\Client\bin\Debug\Client.pdb
+D:\BattleShip\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BattleShip\Client\obj\x86\Debug\Client.frmBattleship.resources
+D:\BattleShip\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\BattleShip\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BattleShip\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\c0rp\Desktop\BattleShip\Client\bin\Debug\Client.exe
+C:\Users\c0rp\Desktop\BattleShip\Client\bin\Debug\Client.pdb
+C:\Users\c0rp\Desktop\BattleShip\Client\bin\Debug\Client.exe.config
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.exe
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.pdb
+C:\Users\c0rp\Desktop\BattleShip\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\bin\Debug\Client.exe.config
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.exe
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.pdb
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\bin\Debug\Client.exe
+C:\Users\c0rp\Desktop\BattleShip - Deadlock\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\BattleShip - Fixed deadlock\BattleShip - Deadlock\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Downloads\MDWbattle\Client\bin\Debug\Client.exe.config
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.exe
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.pdb
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.frmBattleship.resources
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Downloads\MDWbattle\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Downloads\MDWbattle\Client\bin\Debug\Client.exe
+D:\Downloads\MDWbattle\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\MDWbattle\MDWbattle\Client\bin\Debug\Client.pdb
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.exe.config
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.exe
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.pdb
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.exe
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.pdb
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.frmBattleship.resources
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Downloads\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.exe.config
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.exe
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.pdb
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.exe
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\bin\Debug\Client.pdb
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\KK\MDWBATTLESHIP\MDWbattle\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\bin\Debug\Client.exe.config
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\bin\Debug\Client.exe
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\bin\Debug\Client.pdb
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Keremcan-Standart\Desktop\MDWbattle(with btnReady_Click improved)\MDWbattle\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\bin\Debug\Client.exe.config
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\bin\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\bin\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\obj\x86\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\final version\Client\obj\x86\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\bin\Debug\Client.exe.config
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\bin\Debug\Client.exe
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\bin\Debug\Client.pdb
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.frmBattleship.resources
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Yohandi Widjaja\Desktop\project battleship\pretty version\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Lyubomir\Downloads\BattleShipMDW\Client\bin\Debug\Client.exe.config
+C:\Users\Lyubomir\Downloads\BattleShipMDW\Client\obj\x86\Debug\Client.exe
+C:\Users\Lyubomir\Downloads\BattleShipMDW\Client\obj\x86\Debug\Client.pdb
+C:\Users\Lyubomir\Desktop\Telerik\BattleShipMDW\Code\Client\bin\Debug\Client.exe.config
+C:\Users\Lyubomir\Desktop\Telerik\BattleShipMDW\Code\Client\obj\x86\Debug\Client.exe
+C:\Users\Lyubomir\Desktop\Telerik\BattleShipMDW\Code\Client\obj\x86\Debug\Client.pdb
